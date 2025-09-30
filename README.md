@@ -35,12 +35,13 @@ Online tutorials: e.g. [The Odin Project](https://www.theodinproject.com/paths/f
 - Quarto
 
 
-## GitHub Pages
-
-- [Quickstart](https://docs.github.com/en/pages/quickstart) tutorial
-
-
 ## Elements of your academic website
 - home page
 - navbar / navigation links
 - images
+
+
+## Hosting & Domain Names
+
+- [GitHub Pages Quickstart](https://docs.github.com/en/pages/quickstart) tutorial
+- [Cloudflare](https://www.cloudflare.com/en-ca/products/registrar/) domain registration
