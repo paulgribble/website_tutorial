@@ -1,6 +1,7 @@
 # website_tutorial
 
-Online tutorials: e.g. [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
+Online tutorials for HTML, CSS
+- [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
 
 ## Simple HTML
 
@@ -29,11 +30,19 @@ Online tutorials: e.g. [The Odin Project](https://www.theodinproject.com/paths/f
 - [Simple.css](https://simplecss.org/)
 
 
-## Static Site Generators
+## Static Site Generator: Quarto
 
-- Pandoc
-- Jekyll
-- Quarto
+- [Quarto](https://quarto.org/)
+- `_quarto.yml` YAML definitions
+- `.qmd` markdown files
+- `quarto preview` and `quarto render`
+- a simple example:
+    - [quarto/_quarto.yml](quarto/_quarto.yml)
+    - [quarto/index.qmd](quarto/index.qmd)
+    - [quarto/about.qmd](quarto/about.qmd)
+- a more complex example:
+    - [https://gribblelab.org/2812_FW23/](https://gribblelab.org/2812_FW23/)
+    - source: [https://github.com/paulgribble/2812_FW23](https://github.com/paulgribble/2812_FW23) (private)
 
 
 ## Elements of your academic website
