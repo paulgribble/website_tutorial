@@ -27,7 +27,6 @@ Online tutorials for HTML, CSS
 ## CSS Frameworks
 - [Bootstrap](https://getbootstrap.com/)
     - example: [https://gribblelab.org/](https://gribblelab.org/)
-    - example: 
 - [Tailwind](https://tailwindcss.com/)
 - [Simple.css](https://simplecss.org/)
 
@@ -42,7 +41,10 @@ Online tutorials for HTML, CSS
     - [quarto/_quarto.yml](quarto/_quarto.yml)
     - [quarto/index.qmd](quarto/index.qmd)
     - [quarto/about.qmd](quarto/about.qmd)
-- a more complex example:
+- an in-use example:
+    - [https://superlab.ca](https://superlab.ca)
+    - source: [http://github.com/sensorimotor-superlab/sensorimotor-superlab.github.io](http://github.com/sensorimotor-superlab/sensorimotor-superlab.github.io)
+- a full website for an undergraduate course:
     - [https://gribblelab.org/2812_FW23/](https://gribblelab.org/2812_FW23/)
     - source: [https://github.com/paulgribble/2812_FW23](https://github.com/paulgribble/2812_FW23) (private)
 - others include [Jekyll](https://jekyllrb.com/) and [Hugo](https://gohugo.io/)
