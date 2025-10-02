@@ -26,6 +26,8 @@ Online tutorials for HTML, CSS
 
 ## CSS Frameworks
 - [Bootstrap](https://getbootstrap.com/)
+    - example: [https://gribblelab.org/](https://gribblelab.org/)
+    - example: 
 - [Tailwind](https://tailwindcss.com/)
 - [Simple.css](https://simplecss.org/)
 
@@ -43,7 +45,7 @@ Online tutorials for HTML, CSS
 - a more complex example:
     - [https://gribblelab.org/2812_FW23/](https://gribblelab.org/2812_FW23/)
     - source: [https://github.com/paulgribble/2812_FW23](https://github.com/paulgribble/2812_FW23) (private)
-
+- others include [Jekyll]https://jekyllrb.com/) and [Hugo](https://gohugo.io/)
 
 ## Elements of your academic website
 - home page
