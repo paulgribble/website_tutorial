@@ -1,0 +1,9 @@
+---
+title: My Quarto Website
+---
+
+I am a Professor in the Department of Psychology at the University of Western Ontario in London, Ontario, Canada. I have a joint appointment in the Department of Physiology & Pharmacology in the Schulich School of Medicine and Dentistry.
+
+My students and I study basic scientific questions about human sensory and motor systems. We study how the brain controls voluntary movement, and how plasticity in sensory and motor brain areas supports motor learning.
+
+

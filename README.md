@@ -7,6 +7,7 @@ Online tutorials: e.g. [The Odin Project](https://www.theodinproject.com/paths/f
 - the simplest webpage `index.html`
 - head vs body
 - boilerplate shortcut in [VSCode](https://code.visualstudio.com/): `!`
+- e.g. [boilerplate HTML](index.html)
 - preview using your web browser
 - VSCode [live preview extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
 - the [W3 html validator](https://validator.w3.org/#validate_by_input)

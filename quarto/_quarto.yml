@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "My Quarto Website"
+  navbar:
+    background: "#efefff"
+    style: "docked"
+    pinned: true
+    search: false
+
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "About"
+        url: "about.qmd"
+
+
