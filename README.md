@@ -8,7 +8,7 @@ Online tutorials for HTML, CSS
 - the simplest webpage `index.html`
 - head vs body
 - boilerplate shortcut in [VSCode](https://code.visualstudio.com/): `!`
-- e.g. [boilerplate HTML](index.html)
+- e.g. [boilerplate HTML](boilerplate.html)
 - preview using your web browser
 - VSCode [live preview extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
 - the [W3 html validator](https://validator.w3.org/#validate_by_input)
@@ -18,7 +18,8 @@ Online tutorials for HTML, CSS
 ## Simple CSS
 
 - style vs content
-- adding CSS to the HTML header
+- adding CSS to the HTML header [index.html](html/index.html)
+- e.g. [style.css](html/style.css)
 - elements (e.g. `div`, `p`, `h1`)
 - class selectors (e.g. `<div class="alert-text">` in HTML & `.alert-text` in CSS)
 - ID selectors (e.g. `<div id="title">` in HTML & `#title` in CSS)
