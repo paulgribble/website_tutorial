@@ -6,6 +6,16 @@ Paper:
 Online tutorials for HTML, CSS
 - [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
 
+CheatSheets
+- [HTML cheatsheet](https://www.shecodes.io/cheatsheets/html)
+- [CSS cheatsheet](https://www.shecodes.io/cheatsheets/css)
+- [Bootstrap cheatsheet](https://www.shecodes.io/cheatsheets/bootstrap)
+
+More CheatSheets
+- [HTML cheatsheet](https://www.codewithharry.com/blogpost/html-cheatsheet)
+- [CSS cheatsheet](https://www.codewithharry.com/blogpost/css-cheatsheet)
+- [Bootstrap cheatsheet](https://getbootstrap.com/docs/5.0/examples/cheatsheet/)
+
 ## Simple HTML
 
 - the simplest webpage `index.html`
