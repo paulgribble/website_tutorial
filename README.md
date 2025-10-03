@@ -1,5 +1,7 @@
 # website_tutorial
 
+- paper: Gribble PL (2025) [How to design your academic website](https://doi.org/10.1038/s41562-025-02310-6). Nat Hum Behav
+
 Online tutorials for HTML, CSS
 - [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations)
 
